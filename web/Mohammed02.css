@@ -1,0 +1,28 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 12, 2015, 6:06:43 PM
+    Author     : Raihan Ahmed Mohammed
+*/
+.myHeading{
+    font-family: "Trebuchet MS", sans-serif;
+}
+td{
+  font-family: "Trebuchet MS", sans-serif;
+  text-align: right;
+}
+.myButton{
+    text-align: left;
+    
+}
+.myImage{
+    height: 240px;
+    width: 320px;
+    position: absolute;
+    top: 10px;
+    left: 5px;
+    z-index: -1;
+}
